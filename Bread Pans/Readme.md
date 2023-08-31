@@ -46,6 +46,7 @@ Servo Arm Washer<br>
 ## Cutaway View for the Top Arms
 ![Cutaway](./Images/Top_Arm_Cutaway.png)
 
+## Assembly
 Drill out each hole with a 1/8" drill bit for the arms to pivot smoothly and for the pivot rod to go in easily.  The pivot rod does not need to be snug when installed.<br >
 
 
