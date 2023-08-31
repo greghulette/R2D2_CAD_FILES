@@ -1,5 +1,5 @@
 # Bread Pans for the COM-8 Frame
-![Overview Shot](/Images/BreadPansMain.png)
+![Overview Shot](./Images/BreadPansMain.png)
 
 ## Bill of Materials
 
@@ -44,14 +44,14 @@ Servo Arm Washer<br>
 #4-40 washer
 
 ## Cutaway View for the Top Arms
-![Cutaway](/Images/Top_Arm_Cutaway.png)
+![Cutaway](./Images/Top_Arm_Cutaway.png)
 
 Drill out each hole with a 1/8" drill bit for the arms to pivot smoothly and for the pivot rod to go in easily.  The pivot rod does not need to be snug when installed.<br >
 
 
 ## Installation
 Place bread pan in postioin, install the skins to line up where you want them to sit, then scratch the opening on the frame of the holes.  Drill and tap the two holes.  You can see that my holes weren't perfect since one of them didn't quite fall within my scratched marks.  
-![Mounting_Holes](/Images/Bread_Pan_MountingHoles.MP.jpg)
+![Mounting_Holes](./Images/Bread_Pan_MountingHoles.MP.jpg)
 
 Place bread pan in and screw them down.  
-![Mounted](/Images/Bread_Pan_MountingScrews.jpg)
+![Mounted](./Images/Bread_Pan_MountingScrews.jpg)
