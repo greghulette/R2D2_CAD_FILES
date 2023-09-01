@@ -4,7 +4,7 @@
 ## Bill of Materials
 
 Servo <br>
-[ServoLink](https://hitecrcd.com/products/servos/micro-and-mini-servos/analog-micro-and-mini-servos/hs-65hb/product)<br
+[ServoLink](https://hitecrcd.com/products/servos/micro-and-mini-servos/analog-micro-and-mini-servos/hs-65hb/product)<br>
 >
 Servo Linkage - 1 per Front Bread Pan.  I do not have servos in the rear bread pans.<br>
 [Servo Linkage](https://www.amazon.com/gp/product/B09KM8J4QX/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
